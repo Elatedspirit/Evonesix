@@ -1,0 +1,23 @@
+.brown{
+    background-color: burlywood;
+}
+.size{
+    font-size: 24px;
+    color:darkgoldenrod;
+    font-weight:lighter;
+}
+.nav-font{
+    font-size: 20px;
+}
+.light-brown{
+    color: #b49a6b;
+}
+.card {
+    background-color: #e1ccaa;
+    margin: 20px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .card:hover {
+    transform: scale(1.1);
+  }
